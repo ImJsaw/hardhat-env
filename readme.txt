@@ -15,3 +15,7 @@ npx hardhat test
 
 #coverage
 npx hardhat coverage
+
+#vyper comflict
+npx hardhat clean
+npx hardhat compile
